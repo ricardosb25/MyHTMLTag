@@ -1,0 +1,10 @@
+html,body{
+    height: 100%;
+}
+
+body{
+    height: fit-content;
+    width: fit-content;
+    background: rgb(136,214,66);
+    background: linear-gradient(30deg, rgba(136,214,66,1) 0%, rgba(73,147,40,1) 53%, rgba(33,96,17,1) 100%);
+}
